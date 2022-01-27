@@ -1,0 +1,23 @@
+<START>
+<SUBSTART
+    COLA=123;
+    COLB=123;
+    COLc=ABC;
+    COLc=BCD;
+    COLD=DEF;
+<SUBEND
+<SUBSTART
+    COLA=456;
+    COLB=456;
+    COLc=def;
+    COLc=def;
+    COLD=xyz;
+<SUBEND
+<SUBSTART
+    COLA=789;
+    COLB=789;
+    COLc=ghi;
+    COLc=ghi;
+    COLD=xyz;
+<SUBEND>
+<END>
